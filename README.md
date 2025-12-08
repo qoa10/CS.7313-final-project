@@ -1,9 +1,3 @@
-Understood — here is the **complete README in pure Markdown format**, ready to paste directly into GitHub **as-is**.
-This includes: dataset link, setup instructions, folder structure, and short explanations of all scripts.
-No mixing, no omissions — fully self-contained.
-
----
-
 # CS.7313 Final Project — Long-Tail Object Detection
 
 This repository contains the implementation of a three-stage long-tail object detection pipeline using a mini-LVIS dataset. The goal is to improve tail-class performance using a head-expert model and knowledge distillation.
@@ -142,6 +136,3 @@ python "training code/stage2_train_tail_kd+gt.py"
 * CUDA/GPU is recommended for training speed but not required for inference.
 * If you only want to inspect results, use the pretrained models inside `result/`.
 
----
-
-If you want, I can also generate a **beautiful formatted GitHub README** with emojis, badges, diagrams, and table of contents.
